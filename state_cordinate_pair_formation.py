@@ -67,3 +67,6 @@ screen.mainloop()
 
 
 screen.exitonclick()
+
+# git config --global user.name "Nitkarsh Mishra"
+# git config --global user.email "nitkarsh123@gmail.com"
