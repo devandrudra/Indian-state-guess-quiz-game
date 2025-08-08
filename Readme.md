@@ -63,15 +63,6 @@ The game runs until all 28 states are guessed correctly.
 
 Invalid or repeated names are ignored silently.
 
-Optionally, you can show error messages for incorrect inputs.
-
-🧠 Sample Gameplay
-text
-Copy
-Edit
-Guess a state: Maharashtra
-✅ Correct! Maharashtra appears on the map.
-
 Guess a state: Bihar
 ✅ Correct! Bihar appears on the map.
 
@@ -80,4 +71,5 @@ Guess a state: Bihar
 🎉 All states guessed! You win!
 
 
-Learning Sources: Udemy courses, turtle file Documentary on internet, geeks for geeks
+## Learning Sources:
+  Udemy courses, turtle file Documentary on internet, geeks for geeks
